@@ -48,7 +48,7 @@
 🔭 I’m currently preparing for placements!. <br><br>
  🌱 I’m currently learning Java Backend Developer.<br><br>
  <!-- 👯 I’m looking to collaborate on ...<br><br> -->
- 🤔 Check Out my <a href="https://drive.google.com/file/d/1-jii6oNpfVp_Ssqd_N5FNt5GmZvHDsKE/view?usp=sharing">Resume</a><br><br>
+ 🤔 Check Out my <a href="https://drive.google.com/file/d/1meKr0FZok64DQ3nhwNRSVWP3aFKymFvE/view?usp=sharing">Resume</a><br><br>
  📫  Know more about me <a href="https://Rajmalpankaj786.github.io/">Portfolio</a><br><br>
  😄 All of my projects are available at
 <a href="https://github.com/Rajmalpankaj786">My Github Repositories</a><br><br>
