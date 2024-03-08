@@ -40,13 +40,13 @@
 
 ###
 <div>
-<h2 align="left">I am 💪Rajmal Pankaj from Kota Rajasthan.
+<h2 align="left">A Java backend developer with beginner to mid-level knowledge of Java, Hibernate, Springboot, SQL database, MVC, and web API. The constant learner with the ability to adapt to new technologies. Possesses good problem-solving and team management skills. Experienced in successfully delivering solo and collaborative projects.
   </h2>
  
   <br>
   
 🔭 I’m currently preparing for placements. <br><br>
- 🌱 I’m currently learning Java Backend Developer.<br><br>
+ 🌱 I’m currently learning React.<br><br>
  <!-- 👯 I’m looking to collaborate on ...<br><br> -->
  🤔 Check Out my <a href="https://drive.google.com/file/d/1a5-0ema8VzZBSwSEpEOlwOPO76tR6ydo/view?usp=drive_link">Resume</a><br><br>
  📫  Know more about me <a href="https://Rajmalpankaj786.github.io/">Portfolio</a><br><br>
