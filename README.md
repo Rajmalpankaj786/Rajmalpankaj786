@@ -45,7 +45,7 @@
  
   <br>
   
-🔭 I’m currently preparing for placements. <br><br>
+🔭 I’m currently working at Cnetric Global Pvt Limited as a JAVA Intern. <br><br>
  🌱 I’m currently learning MicroServices in Java.<br><br>
  <!-- 👯 I’m looking to collaborate on ...<br><br> -->
  🤔 Check Out my <a href="https://drive.google.com/file/d/1a5-0ema8VzZBSwSEpEOlwOPO76tR6ydo/view?usp=drive_link">Resume</a><br><br>
