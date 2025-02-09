@@ -45,7 +45,7 @@
  
   <br>
   
-🔭 I’m currently working at Cnetric Global Pvt Limited as a JAVA Intern. <br><br>
+🔭 I’m currently working at BPAAS SOLUTIONS PVT LTD as a Software Developer. <br><br>
  🌱 I’m currently learning MicroServices in Java.<br><br>
  <!-- 👯 I’m looking to collaborate on ...<br><br> -->
  🤔 Check Out my <a href="https://drive.google.com/file/d/18KLh6Mo6KejzXV6K7r87cFZH1ozphr0T/view?usp=sharing">Resume</a><br><br>
