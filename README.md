@@ -36,23 +36,24 @@
 
 <!-- ### -->
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me </h3>
 
 ###
 <div>
-<h2 align="left">A Java backend developer with beginner to mid-level knowledge of Java, Hibernate, Springboot, SQL database, MVC, and web API. The constant learner with the ability to adapt to new technologies. Possesses good problem-solving and team management skills. Experienced in successfully delivering solo and collaborative projects.
+<h2 align="left">
+A Java backend developer with intermediate to advanced knowledge of Java, Hibernate, Spring Boot, Oracle databases, MVC architecture, and web Rest APIs. Skilled in implementing production-ready solutions and working in UAT environments. Proficient in using debugging tools for efficient issue resolution and optimizing application performance. Experienced with caching mechanisms like Memcached and building task schedulers for background job processing. A constant learner with the ability to quickly adapt to new technologies. Possesses strong problem-solving and team management skills and has a proven track record of successfully delivering both solo and collaborative projects.
   </h2>
  
   <br>
   
-🔭 I’m currently working at BPAAS SOLUTIONS PVT LTD as a Software Developer. <br><br>
+🔭 I’m currently working at BPAAS SOLUTIONS PVT LTD as a Software Developer(Client side - IRCTC). <br><br>
  🌱 I’m currently learning MicroServices in Java.<br><br>
  <!-- 👯 I’m looking to collaborate on ...<br><br> -->
  🤔 Check Out my <a href="https://drive.google.com/file/d/18KLh6Mo6KejzXV6K7r87cFZH1ozphr0T/view?usp=sharing">Resume</a><br><br>
  📫  Know more about me <a href="https://Rajmalpankaj786.github.io/">Portfolio</a><br><br>
  😄 All of my projects are available at
 <a href="https://github.com/Rajmalpankaj786">My Github Repositories</a><br><br>
- 💬 Ask me about HTML, CSS, JavaScript, Java, Hibernate, MYSQL, Spring, SpringBoot<br><br>
+ 💬 Ask me about HTML, CSS, JavaScript, Java, Hibernate, MYSQL, Spring, SpringBoot,MemCache, Debugger, scheduler, UAT, Weblogic.<br><br>
  ⚡ How to reach me <a href="rajmalpankaj786@gmail.com">rajmalpankaj786@gmail.com</a>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 </div>
